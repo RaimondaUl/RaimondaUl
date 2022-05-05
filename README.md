@@ -1,7 +1,7 @@
-👋 Hi, I’m @RaimondaUl
-👀 I’m interested in Data Analytics
-🌱 I’m currently learning Python & R
-📫 How to reach me: www.linkedin.com/in/raimonda-uleviciene (LinkedIn)
+- 👋 Hi, I’m @RaimondaUl
+- 👀 I’m interested in Data Analytics
+- 🌱 I’m currently learning Python & R
+- 📫 How to reach me: www.linkedin.com/in/raimonda-uleviciene (LinkedIn)
 
 
 <!---
