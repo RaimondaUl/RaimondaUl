@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @RaimondaUl
-- 👀 I’m interested in Data Analytics
+- 👀 I’m interested in Data Analytics & Data Engineering &
+Data Science.
 - 🌱 I’m currently learning Python & R
 - 📫 How to reach me: www.linkedin.com/in/raimonda-uleviciene (LinkedIn)
 
